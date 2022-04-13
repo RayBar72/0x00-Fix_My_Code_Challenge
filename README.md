@@ -2,8 +2,7 @@
 
     By Guillaume
     Weight: 1
-    Ongoing project - started Apr 11, 2022
-    , must end by Apr 25, 2022
+    Ongoing project - started Apr 11, 2022, must end by Apr 25, 2022
     - you're done with 0% of tasks.
     Checker will be released at Apr 21, 2022 12:00 PM
     An auto review will be launched at the deadline
